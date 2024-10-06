@@ -1,0 +1,13 @@
+name: ex00
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - numpy
+  - python=3
+  - jupyter
+  - seaborn
+  - pip:
+    - pandas-downcast
